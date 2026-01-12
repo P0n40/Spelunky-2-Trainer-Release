@@ -1,4 +1,4 @@
-# 🕳️ Spelunky 2 Trainer (+22 Cheats) - mul0
+# 🔥 Spelunky 2 Trainer (+22 Cheats) - mul0
 
 **Game Version:** v1.28  
 **Process Name:** `Spelunky2.exe` (64-bit)  
