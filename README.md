@@ -45,7 +45,7 @@ Built with a modern DPI-aware interface. Perfect for single-player fun, practice
 | F6        | Money Multiplier         | Multiplies all money                                      |
 | F7        | Kill Myself              | Suicide (press L, 3-5 sec delay)                          |
 | F8        | No Clip                  | Walk through walls (hold Left Ctrl / L2+R2)               |
-| F9        | Teleport to Exit         | Instant teleport (press T / R3)                            |
+| F9        | Teleport to Exit         | Instant teleport (press T / R3)                           |
 | F10       | Free Items in Store      | Shop items cost 0                                         |
 | F11       | Rapid Fire               | Faster weapon firing                                      |
 | F12       | Automatic Firing         | Auto-fire on hold                                         |
@@ -67,8 +67,7 @@ Built with a modern DPI-aware interface. Perfect for single-player fun, practice
 
 ## 📸 Screenshot
 
-![Trainer Preview](https://mul0.com/wp-content/uploads/2026/01/Spelunky-2-Trainer-22-mul0-v1.28.webp)
-<!-- Заміни на свій скріншот, коли завантажиш на сайт -->
+![Trainer Preview](https://mul0.com/wp-content/uploads/2026/01/Trainer-Cover.webp)
 
 ---
 
