@@ -67,7 +67,7 @@ Built with a modern DPI-aware interface. Perfect for single-player fun, practice
 
 ## 📸 Screenshot
 
-![Trainer Preview](https://mul0.com/wp-content/uploads/2026/01/Spelunky-2-Trainer-22-mul0-v1.28.webp)
+![Trainer Preview](https://mul0.com/wp-content/uploads/2026/01/Trainer-Cover.webp)
 <!-- Заміни на свій скріншот, коли завантажиш на сайт -->
 
 ---
